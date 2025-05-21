@@ -1,6 +1,6 @@
 # Exno.6-Prompt-Engg
-# Date:
-# Register no.
+
+# Register no.212222060042
 # Aim: Development of Python Code Compatible with Multiple AI Tools
 
 # Algorithm: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
