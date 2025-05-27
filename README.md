@@ -9,6 +9,4 @@
 
 
 
-
-
 # Result: The corresponding Prompt is executed successfully
